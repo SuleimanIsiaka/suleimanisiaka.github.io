@@ -12,7 +12,7 @@ author: Suleiman Isiaka
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: " "
+  About Me: "aboutme.md"
   Resources:
     - Beautiful Jekyll: " "
     - Learn markdown: " "
