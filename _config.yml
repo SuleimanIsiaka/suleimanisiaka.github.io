@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: Suleiman Isiaka's Portfolio
+title: Suleiman Isiaka
 
 # Short description of your site
-description: "  "
+description: "Proof that I am the Business Analyst to deliver your projects"
 
 # Your name to show in the footer
 author: Suleiman Isiaka
@@ -12,7 +12,9 @@ author: Suleiman Isiaka
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "A business analyst with expertise in the development, documentation, and implementation of system and process improvements, leading cross-functional teams to drive the achievement of business objectives. An outstanding communicator with project management skills seeking the opportunity to utilize his skills and experience in a product development role."
+  About Me:
+    - Education: " "
+    - Background: " "
   Resources:
     - Beautiful Jekyll: " "
     - Learn markdown: " "
