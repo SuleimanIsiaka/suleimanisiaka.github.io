@@ -4,6 +4,20 @@ title: Resume
 subtitle: A business analyst with expertise in the development, documentation, and implementation of system and process improvements, leading cross-functional teams to drive the achievement of business objectives. An outstanding communicator with project management skills seeking the opportunity to utilize his skills and experience in a product development role.
 ---
 
+INDUSTRY SKILLS
+
+-	B.Sc. and a Master’s Degree in business administration
+-	Advanced MS Office Suite, MySQL, Tableau, MS Visio, & Jira Proficiency
+-	Requirements Elicitation & Analysis
+-	Excellent communication skills (Written & Spoken)
+-	Project Management
+-	SDLC (Waterfall & Agile)
+-	Enterprise & CRM implementation
+-	Test Plan & Test Case Development
+-	User Acceptance Testing
+-	APICS CSCP (Certified Supply Chain Professional)
+
+
 Business Analyst | 			   	    IPEX Management Inc             	   (2018-Till Date)
 
 - Defined improvement projects aligned with business strategies to change business operations, processes and systems to maximize efficiency and profitability 
