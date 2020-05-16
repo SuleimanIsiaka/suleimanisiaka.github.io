@@ -4,7 +4,7 @@
 title: Suleiman Isiaka's Portfolio
 
 # Short description of your site
-description: A business analyst with expertise in the development, documentation, and implementation of system and process improvements, leading cross-functional teams to drive the achievement of business objectives. An outstanding communicator with project management skills seeking the opportunity to utilize his skills and experience in a product development role.
+description: "  "
 
 # Your name to show in the footer
 author: Suleiman Isiaka
@@ -12,11 +12,11 @@ author: Suleiman Isiaka
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "About me"
+  About Me: "A business analyst with expertise in the development, documentation, and implementation of system and process improvements, leading cross-functional teams to drive the achievement of business objectives. An outstanding communicator with project management skills seeking the opportunity to utilize his skills and experience in a product development role."
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Beautiful Jekyll: " "
+    - Learn markdown: " "
+  Author's home: "  "
 
 # --- Logo --- #
 
