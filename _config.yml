@@ -4,7 +4,7 @@
 title: Suleiman Isiaka
 
 # Short description of your site
-description: "Proof I am an awesome Business Analyst"
+description: " "
 
 # Your name to show in the footer
 author: Suleiman Isiaka
@@ -46,7 +46,7 @@ social-network-links:
 #  reddit: sule1man82
 #  linkedin: https://www.linkedin.com/in/suleiman-isiaka/
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+#  stackoverflow: " "
 #  snapchat: 
 #  instagram: 
 #  youtube: suleiman.isiaka03
@@ -80,21 +80,21 @@ excerpt_length: 80
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#333338"
+#navbar-col: "#333338"
 navbar-text-col: "#FFFFFF"
-navbar-border-col: "#EAEAEA"
+navbar-border-col: "#e3900b"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
-footer-text-col: "#777777"
+#footer-text-col: "#777777"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/Background.jpg"
+footer-img: "/assets/img/Background.jpg"
 #page-img: "/assets/img/bgimage.png"
 
 # --- Web Statistics Section --- #
