@@ -12,10 +12,10 @@ There was a dire need for ERP system functionality with software pieces for Cust
 
 ### Benefits of The Project
 
-Improving internal business processes
-Improving company performance
-Reducing IT expenses and labor costs
-Improving interactions between internal employees and external organizations
+- Improving internal business processes
+- Improving company performance
+- Reducing IT expenses and labor costs
+- Improving interactions between internal employees and external organizations
 
 ### Documentation
 
