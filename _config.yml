@@ -27,7 +27,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -86,11 +86,11 @@ navbar-col: "#020642"
 navbar-text-col: "#ffffff"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
+link-col: "#ffffff"
+hover-col: "#ffffff"
 footer-col: "#020642"
 footer-text-col: "#ffffff"
-footer-link-col: "#404040"
+footer-link-col: "#ffffff"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
