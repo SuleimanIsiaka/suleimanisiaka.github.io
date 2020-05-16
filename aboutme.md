@@ -7,10 +7,8 @@ subtitle: Why you'd want me to be on your project team
 My name is Suleiman Isiaka. I have the following qualities:
 
 - I am a goal oriented individual with and a "can do" attitude
-
 - I have a continuous improvement mindset, and I am devoted to learning new trends, tools, and techniques to improve my skills
 
-What else do you need?
 
 ### My History
 
