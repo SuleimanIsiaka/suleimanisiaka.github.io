@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ERP PROJECT
+title: ORACLE ERP PROJECT
 subtitle: 
 cover-img: /assets/img/Background.jpg
 tags: [Business Analyst]
