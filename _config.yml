@@ -43,19 +43,19 @@ social-network-links:
   email: "suleiman.isiaka@yahoo.com"
   facebook: https://www.facebook.com/suleiman.isiaka
   github: suleimanisiaka.github.io
-  twitter: daattali
+  twitter: @slyman_the_bold
   rss: true
-#  reddit: yourname
+#  reddit: sule1man82
 #  linkedin: https://www.linkedin.com/in/suleiman-isiaka/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  snapchat: 
+#  instagram: 
 #  youtube: suleiman.isiaka03
 #  spotify: Suleiman Isiaka
 #  telephone: +16478073878
-#  steam: deanat78
-#  twitch: yourname
+#  steam: 
+#  twitch: sule1man82
 #  yelp: yourname
 #  telegram: Suleiman
 #  calendly: yourname
@@ -82,7 +82,7 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#23313d"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
