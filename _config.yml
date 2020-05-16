@@ -12,9 +12,7 @@ author: Suleiman Isiaka
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me:
-    - Education: " "
-    - Background: " "
+  About Me: " "
   Resources:
     - Beautiful Jekyll: " "
     - Learn markdown: " "
