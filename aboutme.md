@@ -10,6 +10,7 @@ My name is Suleiman Isiaka. I have the following qualities:
 - I have a continuous improvement mindset, and I am devoted to learning new trends, tools, and techniques to improve my skills
 
 
+
 ### My History
 
 I am an acclaimed Business Analyst with 5+ years of experience in the Supply Chain Management and Telecommunications industry. My expertise lies in ERP and CRM solutions implementation from accurate requirements elicitation, through creation of business and functional requirements, testing, and Go-Live deployment.
