@@ -10,21 +10,21 @@ This Project was borne of the need to have a company wide uniform ERP system to 
 
 There was a dire need for ERP system functionality with software pieces for Customer Relationship Management (CRM), sales automation, a business partner management system, and an integrated human resources application in order to streamline processes and stop work redundancy, increase and improve interaction internally and between customers and suppliers. There was a lot of productivity to be gained from seamless communication between suppliers, sales, marketing, finance and business associates.
 
-title: Benefits of The Project
+### Benefits of The Project
 
 Improving internal business processes
 Improving company performance
 Reducing IT expenses and labor costs
 Improving interactions between internal employees and external organizations
 
-title: Documentation
+### Documentation
 
-- Business Case
+- Business Case Document
 - Stakeholder Analysis/Responsibility (RACI Matrix)
 - Business Requirement Document
 - Functional Requirement Document
 - Visual Documentation (Wireframes, Activity Diagrams, Workflow Diagrams)
 - Use Cases
 - Test Plan/Test Cases
-- Change Management
+- Change Management (User Manuals, Process Guides, SOP's)
 
