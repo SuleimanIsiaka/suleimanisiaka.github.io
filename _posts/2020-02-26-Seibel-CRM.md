@@ -19,9 +19,10 @@ Upon gathering the required information, a comprehensive project plan was create
 
 ### Documentation
 
-- Business requirements document 
+- Business Vision Document
+- Business Requirements Document 
 - Functional design document 
-- Architecture context diagrams.
+- Architecture context diagrams
 - Test Plans
 - Training Manuals
 
