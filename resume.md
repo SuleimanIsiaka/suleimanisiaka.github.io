@@ -4,7 +4,7 @@ title: Resume
 subtitle: A business analyst with expertise in the development, documentation, and implementation of system and process improvements, leading cross-functional teams to drive the achievement of business objectives. An outstanding communicator with project management skills seeking the opportunity to utilize his skills and experience in a product development role.
 ---
 
-Business Analyst | Supply Chain & Logistics			   	    IPEX Management Inc             	   2018-Till Date
+Business Analyst | Supply Chain & Logistics			   	    IPEX Management Inc             	   (2018-Till Date)
 
 - Defined improvement projects aligned with business strategies to change business operations, processes and systems to maximize efficiency and profitability 
 - Facilitated cross-functional workshops, brainstorming sessions, interviews and conducted surveys to gather and elicit requirements for process and systems improvement projects 
@@ -15,7 +15,7 @@ Business Analyst | Supply Chain & Logistics			   	    IPEX Management Inc       
 - Updated and developed process and systems training materials and facilitated training on newly implemented workflows, processes, and systems
 
 
-Business Analyst | Supply Chain & Logistics						Globacom Limited         2014-2018
+Business Analyst | Supply Chain & Logistics						Globacom Limited         (2014-2018)
 
 - Documented a business case for an ERP upgrade project which evaluated new features, components, and benefits of Oracle ERP over the legacy system in use 
 - Designed wireframes and mockups that reflected information hierarchies for implementing solution designs
@@ -26,7 +26,7 @@ Business Analyst | Supply Chain & Logistics						Globacom Limited         2014-2
 - Supported continuous improvement efforts and the implementation of add-on features for Oracle-based ERP and CRM (Siebel) solutions 
 
 
-Regional Stock Controller | Supply Chain & Logistics		        		     Globacom Limited                   2010-2014
+Regional Stock Controller | Supply Chain & Logistics		        		     Globacom Limited                   (2010-2014)
 
 - Owned the regional purchasing/budgeting operations and initiated cost reduction activities which led to a cost saving of 29%
 - Implemented Just-In-Time and Kanban methodologies for lean supply planning which helped to reduce inventory investment costs
