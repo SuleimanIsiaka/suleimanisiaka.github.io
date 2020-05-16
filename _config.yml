@@ -12,7 +12,7 @@ author: Suleiman Isiaka
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme.md"
+  About Me: 
   Resources:
     - Beautiful Jekyll: " "
     - Learn markdown: " "
@@ -84,11 +84,11 @@ navbar-col: "#020642"
 navbar-text-col: "#ffffff"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
-link-col: "#ffffff"
-hover-col: "#ffffff"
+link-col: "#1f212e"
+hover-col: "#020642"
 footer-col: "#020642"
 footer-text-col: "#ffffff"
-footer-link-col: "#ffffff"
+footer-link-col: "#1f212e"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
