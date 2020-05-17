@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-subtitle: A business analyst with expertise in the development, documentation, and implementation of system and process improvements, leading cross-functional teams to drive the achievement of business objectives. An outstanding communicator with project management skills seeking the opportunity to utilize his skills and experience in a product development role.
+subtitle: A business analyst with expertise in the documentation, and implementation of system and process improvements, and in leading cross-functional teams to drive the achievement of business objectives. An outstanding communicator with project management skills seeking the opportunity to utilize his skills and experience in a product development role.
 ---
 
 INDUSTRY SKILLS
