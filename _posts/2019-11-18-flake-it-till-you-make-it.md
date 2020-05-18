@@ -2,7 +2,7 @@
 layout: page
 title: ORACLE ERP PROJECT
 subtitle: 
-cover-img: /assets/img/Background.jpg
+cover-img: /assets/img/ERP.png
 tags: [Business Analyst]
 ---
 
