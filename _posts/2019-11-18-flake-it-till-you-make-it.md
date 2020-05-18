@@ -17,6 +17,10 @@ There was a dire need for ERP system functionality with software pieces for Cust
 - Reducing IT expenses and labor costs
 - Improving interactions between internal employees and external organizations
 
+### Role
+
+Business Analyst
+
 ### Documentation
 
 - Business Case Document
