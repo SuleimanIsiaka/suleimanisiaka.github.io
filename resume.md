@@ -35,6 +35,7 @@ Business Analyst |					Globacom Limited         (2014-2018)
 - Designed wireframes and mockups that reflected information hierarchies for implementing solution designs
 - Conducted JAD sessions with business users and stakeholders to define project scope, identify the business process flows and determine the impact of new development efforts on the as-is and to-be requirements
 - Created use case diagrams to show the interaction between the actors and use cases
+- Documented Epics and User Stories to accurately capture the required software features from the end-user perspective for development
 - Prepared and documented a test plan document for User Acceptance Testing (UAT), System Integration Testing (SIT), and generated test cases from business use cases 
 - Conducted and facilitated User Acceptance Testing, and oversaw defect management while acting as an intermediary between testers and the technical crew
 - Supported continuous improvement efforts and the implementation of add-on features for Oracle-based ERP and CRM (Siebel) solutions 
