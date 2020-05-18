@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Siebel CRM Upgrade/Implementation
+title: Siebel CRM
 subtitle: 
 cover-img: /assets/img/Background.jpg
 image: /assets/img/siebel.jpg
