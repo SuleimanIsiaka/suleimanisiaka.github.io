@@ -2,7 +2,7 @@
 layout: page
 title: Siebel CRM Upgrade/Implementation
 subtitle: 
-cover-img: /assets/img/Background.jpg
+cover-img: /assets/img/Siebel.jpg
 tags: [Business Analyst]
 ---
 
@@ -16,6 +16,10 @@ This project was a very capital intensive one and it was essential to gain an un
 - The necessary commitment by the business of time and resources to the project
 
 Upon gathering the required information, a comprehensive project plan was created and a project charter was signed to commence the project. After a successful upgrade, a change management program was initiated where rollout dates were communicated to users, training was scheduled, and adequate time was allowed for end users to adjust to the enhancements, and a process was created for users to provide feedback to the project team. User adoption was critical to a successful upgrade so users had access to a test environment that allowed them to become familiar with the new version of the application, and end-user training was delivered on the upgraded application.
+
+### Role
+
+Business Analyst
 
 ### Documentation
 
