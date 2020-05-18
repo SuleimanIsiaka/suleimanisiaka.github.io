@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ORACLE ERP PROJECT
+title: ORACLE ERP
 subtitle: 
 cover-img: /assets/img/Background.jpg
 image: /assets/img/ERP.png
