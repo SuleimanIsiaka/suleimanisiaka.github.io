@@ -4,7 +4,7 @@ title: Resume
 subtitle: A business analyst with expertise in the documentation, and implementation of system and process improvements, and in leading cross-functional teams to drive the achievement of business objectives. An outstanding communicator with project management skills seeking the opportunity to utilize his skills and experience in a product development role.
 ---
 
-INDUSTRY SKILLS
+### INDUSTRY SKILLS
 
 -	B.Sc. and a Master’s Degree in business administration
 -	Advanced MS Office Suite, MySQL, Tableau, MS Visio, & Jira Proficiency
@@ -18,7 +18,7 @@ INDUSTRY SKILLS
 -	APICS CSCP (Certified Supply Chain Professional)
 
 
-Business Analyst | 			   	    IPEX Management Inc             	   (2018-Till Date)
+### Business Analyst | 			   	    IPEX Management Inc             	   (2018-Till Date)
 
 - Defined improvement projects aligned with business strategies to change business operations, processes and systems to maximize efficiency and profitability 
 - Facilitated cross-functional workshops, brainstorming sessions, interviews and conducted surveys to gather and elicit requirements for process and systems improvement projects 
@@ -29,7 +29,7 @@ Business Analyst | 			   	    IPEX Management Inc             	   (2018-Till Dat
 - Updated and developed process and systems training materials and facilitated training on newly implemented workflows, processes, and systems
 
 
-Business Analyst |					Globacom Limited         (2014-2018)
+### Business Analyst |					Globacom Limited         (2014-2018)
 
 - Documented a business case for an ERP upgrade project which evaluated new features, components, and benefits of Oracle ERP over the legacy system in use 
 - Designed wireframes and mockups that reflected information hierarchies for implementing solution designs
@@ -41,7 +41,7 @@ Business Analyst |					Globacom Limited         (2014-2018)
 - Supported continuous improvement efforts and the implementation of add-on features for Oracle-based ERP and CRM (Siebel) solutions 
 
 
-Regional Stock Controller |	        		     Globacom Limited                   (2010-2014)
+### Regional Stock Controller |	        		     Globacom Limited                   (2010-2014)
 
 - Owned the regional purchasing/budgeting operations and initiated cost reduction activities which led to a cost saving of 29%
 - Implemented Just-In-Time and Kanban methodologies for lean supply planning which helped to reduce inventory investment costs
@@ -51,7 +51,7 @@ Regional Stock Controller |	        		     Globacom Limited                   (2
 - Managed the RFI, RFQ, and RFP process with potential new suppliers and maintained a high level of strategic SRM
 
 
-EDUCATION
+### EDUCATION
 
 Master of Business Administration, Marketing     						     
 Bayero University
@@ -60,7 +60,7 @@ Bachelors’ Degree, Business Administration
 Ahmadu Bello University
 
 
-CERTIFICATION
+### CERTIFICATION
 
 Certified Supply Chain Professional (CSCP) 						    	     
 Association for Supply Chain Management (ASCM formerly APICS)
