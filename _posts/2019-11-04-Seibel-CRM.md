@@ -2,7 +2,7 @@
 layout: page
 title: Siebel CRM Upgrade/Implementation
 subtitle: 
-cover-img: /assets/img/Siebel.jpg
+cover-img: /assets/img/siebel.jpg
 tags: [Business Analyst]
 ---
 
