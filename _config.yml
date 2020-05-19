@@ -106,15 +106,11 @@ footer-link-col: "#404040"
 </script"
 
 # Google Tag Manager ID
-#gtm: "<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167054393-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: ""
 
-  gtag('config', 'UA-167054393-1');
-</script"
+# Google Tag Manager ID
+#gtm: ""
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
