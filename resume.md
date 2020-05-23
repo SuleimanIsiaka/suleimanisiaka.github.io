@@ -20,24 +20,24 @@ subtitle: A business analyst with expertise in the documentation, and implementa
 
 ### Business Analyst | 			   	    IPEX Management Inc             	   (2018-Till Date)
 
-- Defined improvement projects aligned with business strategies to change business operations, processes and systems to maximize efficiency and profitability 
-- Facilitated cross-functional workshops, brainstorming sessions, interviews and conducted surveys to gather and elicit requirements for process and systems improvement projects 
-- Defined and actively engaged stakeholders to ensure correct specifications, and to receive technical and  business approvals while preserving the project scope 
-- Conducted project feasibility checks to ensure that resources critical to proposed projects are available/obtainable and their costs fall within the project budget
-- Created stakeholder analysis documents, business case document, business, and functional requirements documents, use case, and test plan documents
-- Documented system flows and business processes using activity and UML workflow diagrams in Microsoft Visio
-- Updated and developed process and systems training materials and facilitated training on newly implemented workflows, processes, and systems
+-	Defined improvement projects aligned with business strategies to change business operations, processes and systems to maximize efficiency and profitability 
+-	Facilitated cross-functional workshops, brainstorming sessions, interviews and conducted surveys to gather and elicit requirements for process and systems improvement projects 
+-	Defined and actively engaged stakeholders to ensure correct specifications, and to receive technical and  business approvals while preserving the project scope 
+-	Conducted project feasibility checks to ensure that resources critical to proposed projects were available/obtainable and their costs fell within the project budget
+-	Communicated stakeholder’s business requirements to developers by constructing clear and concise use cases/use case diagrams, user stories, business, and functional requirements, workflow/process diagrams, data flow/data model diagrams
+-	Developed process and systems training materials and facilitated training on newly implemented workflows, processes, and systems
+
 
 
 ### Business Analyst |					Globacom Limited         (2014-2018)
 
-- Documented a business case for an ERP upgrade project which evaluated new features, components, and benefits of Oracle ERP over the legacy system in use 
-- Designed wireframes and mockups that reflected information hierarchies for implementing solution designs
-- Conducted JAD sessions with business users and stakeholders to define project scope, identify the business process flows and determine the impact of new development efforts on the as-is and to-be requirements
-- Created use case diagrams to show the interaction between the actors and use cases
-- Prepared and documented a test plan document for User Acceptance Testing (UAT), System Integration Testing (SIT), and generated test cases from business use cases 
-- Conducted and facilitated User Acceptance Testing, and oversaw defect management while acting as an intermediary between testers and the technical crew
-- Supported continuous improvement efforts and the implementation of add-on features for Oracle-based ERP and CRM (Siebel) solutions 
+-	Responsible for all ERP and CRM implementation/support projects and handed off deliverables within set timeframes
+-	Evaluated project risks concerning vendors, contracts, budgets and financing which led to savings of over $150,000
+-	Managed platform setup and integration with six business partners and five banks with 100% success, within set timeframes
+-	Documented system flows and business processes using activity and UML workflow diagrams in Microsoft Visio
+-	Handled data migration processes from legacy systems to newly deployed solutions with 100% success rate
+-	Conducted various levels of testing including functional, user acceptance, regression, integration, and performance tests to validate phase success
+
 
 
 ### Regional Stock Controller |	        		     Globacom Limited                   (2010-2014)
@@ -48,6 +48,16 @@ subtitle: A business analyst with expertise in the documentation, and implementa
 - Reviewed purchase orders, vendor contracts, and negotiated rate renewals to save costs
 - Frequently updated the safety stock and Min-Max calculations to reflect current inventory carrying requirements
 - Managed the RFI, RFQ, and RFP process with potential new suppliers and maintained a high level of strategic SRM
+
+
+
+### Logistics Coordinator |	        		     Globacom Limited                   (2006-2010)
+- Coordinated all inbound/outbound distribution operations to business partners, customers, and distribution centers locally and internationally with 98% OTD rate
+- Served as point of contact for all inbound/outbound related inquiries/resolutions and strictly maintained a 48 hour turn-around time
+- Coordinated with freight forwarders to facilitate tracking/tracing of local and international shipments via LTL, FTL, Container, and Airfreight, and updated stake-holders with results
+- Created and ensured complete shipping documentation including BOL, Customs invoices, and dangerous goods documentation
+- Reviewed logistics performance with stake-holders against targets, benchmarks and service agreements, and worked directly with internal carriers on the resolution of issues and opportunities for improvement to ensure high service quality for customers
+- Directed team activities, established task priorities, scheduled and tracked work assignments, and guided team members to ensure the attainment of distribution goals
 
 
 ### EDUCATION
