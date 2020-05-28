@@ -31,7 +31,6 @@ Leveraging business and technical expertise to increase collaboration between te
 
 
 
-
 ### Business Analyst |					Globacom Limited         (2014-2018)
 
 Business Analyst on an ORACLE ERP and Siebel CRM implementation Team, leading a talented team of cross-functional individuals to deliver a company-wide ERP project and Siebel CRM continuous improvement projects. Overcoming challenges, balancing stakeholder needs, problem-solving, growing the agility of the team, maintaining backlogs, and learning together
@@ -42,28 +41,6 @@ Business Analyst on an ORACLE ERP and Siebel CRM implementation Team, leading a 
 - Documented business process models using BPMN and UML in Microsoft Visio, Wireframes, and Mockups
 - Handled data migration processes from legacy systems to newly deployed solutions with 100% success rate
 - Conducted various levels of testing including functional, user acceptance, regression, integration, and performance tests to validate phase success
-
-
-
-
-### Purchasing & Inventory Analyst |	        		     Globacom Limited                   (2010-2014)
-
-- Owned the regional purchasing/budgeting operations and initiated cost reduction activities which led to a cost saving of 29%
-- Implemented Just-In-Time and Kanban methodologies for lean supply planning which helped to reduce inventory investment costs
-- Maintained inventory levels for MRO, WIP, and finished goods materials to ensure constant availability and prevent stock-outs
-- Reviewed purchase orders, vendor contracts, and negotiated rate renewals to save costs
-- Frequently updated the safety stock and Min-Max calculations to reflect current inventory carrying requirements
-- Managed the RFI, RFQ, and RFP process with potential new suppliers and maintained a high level of strategic SRM
-
-
-
-### Logistics Coordinator |	        		     Globacom Limited                   (2006-2010)
-- Coordinated all inbound/outbound distribution operations to business partners, customers, and distribution centers locally and internationally with 98% OTD rate
-- Served as point of contact for all inbound/outbound related inquiries/resolutions and strictly maintained a 48 hour turn-around time
-- Coordinated with freight forwarders to facilitate tracking/tracing of local and international shipments via LTL, FTL, Container, and Airfreight, and updated stake-holders with results
-- Created and ensured complete shipping documentation including BOL, Customs invoices, and dangerous goods documentation
-- Reviewed logistics performance with stake-holders against targets, benchmarks and service agreements, and worked directly with internal carriers on the resolution of issues and opportunities for improvement to ensure high service quality for customers
-- Directed team activities, established task priorities, scheduled and tracked work assignments, and guided team members to ensure the attainment of distribution goals
 
 
 ### EDUCATION
